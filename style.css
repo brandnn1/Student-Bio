@@ -1,0 +1,25 @@
+p
+{
+    font-size: 22px;
+    color:blue;
+}
+
+body
+{
+    margin:0px;
+    padding: 0px;
+}
+.h1
+{
+    background-color:black;
+    color: white;
+    text-align: center
+}
+
+.main {
+    width: 85%
+}
+
+.main, .second {
+    float: left
+}
